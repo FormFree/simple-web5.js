@@ -1,0 +1,11 @@
+{
+  "name": "@formfree/simple-web5.js",
+  "version": "0.0.1",
+  "description": "Copy of https://gist.github.com/csuwildcat/954a5b4491413449d219d0520db17566",
+  "dependencies": {
+    "@web5/agent": "^0.5.1",
+    "@web5/api": "^0.10.0",
+    "@web5/dids": "^1.1.3",
+    "@web5/user-agent": "^0.4.3"
+  }
+}
